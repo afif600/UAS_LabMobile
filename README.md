@@ -99,7 +99,7 @@ dependencies:
 - Setelah selesai, jalankan programnya with debugging.
 - Maka hasilnya akan seperti ini :>
 
-![Output](img/output.PNG)
+![Output](img/output.png)
 
 - Kode diatas dapat kalian improvisasi dengan kreasi kalian sendiri.
 
